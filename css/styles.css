@@ -111,11 +111,15 @@
     /* Чем мы занимаемся */
     
     .work-list p {
+        position: absolute;
+        bottom: 0px;
         background-color: rgba(47, 48, 58, 0.8);
         color: #FFFFFF;
         padding: 27px;
-        padding-left: 83px;
-        padding-right: 82px;
+        /* padding-left: 83px; */
+        /* padding-right: 82px; */
+        width: 370px;
+        height: 70px;
     }
     /* OUR TEAM */
     
